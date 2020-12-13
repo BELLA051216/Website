@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+	* {
+	box-sizing:border-box;
+	}*
+	
+	header{
+	background-color:cornsilk;
+	color: darkkhaki;
+	text-align: center;
+    width:100%;
+    padding: 10px;
+    font-size:17px}
+	
+	body{
+	font-family: Cambria;
+	width: 60%;
+	text-align: center;}
+	
+	nav{
+	background-color:darkkhaki;
+	padding:5px;
+	text-align: center;
+    font-size: 15px;}
+	
+	footer{
+	background-color:darkkhaki;
+	font-size:14px;
+	color: white;
+	padding:7px;
+	text-align: center;}
+	
+	a{display:inline-block;color: white;padding: 10px;}
+	a:hover{background-color:cornsilk;color:burlywood}
+	body{width:70%;margin-left:auto;margin-right:auto;}
+	
+	article{
+	background-color:aliceblue;
+	font-size: 15px;
+	text-align: left;
+	padding: 5px;
+    height: 200%;}
+
+
